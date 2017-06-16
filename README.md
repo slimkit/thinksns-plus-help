@@ -1,8 +1,9 @@
 # ThinkSNS Plus Help
 
-ThinkSNS+ 是基于 Laravel 开发的一个用户生态基础框架系统，支持动态拓展应用的接入和UI规范设计。</br>
-更多关于 ThinkSNS+ 请访问 关于 ThinkSNS+ 了解产品。</br>
-本仓库记录 ThinkSNS+ 产品常见问题。我们记录授权产品在实际使用过程中常见的问题。推荐你查阅.它们是点击量非常高的问题，当然也包括部分以前没见过的问题。</br>
+<p align="center"><img src="http://orkxkkozv.bkt.clouddn.com/plus-logo.png"></p>
+
+`ThinkSNS+`打造社交运营为核心的应用级软件系统源码及定制开发服务。支持动态拓展应用的接入和UI规范设计。更多关于`ThinkSNS+`请访问[ThinkSNS+](http://www.thinksns.com/index.html)。</br>
+本仓库记录`ThinkSNS+`产品常见问题。我们记录授权产品在实际使用过程中常见的问题，推荐你查阅。它们是点击量非常高的问题，当然也包括部分以前没见过的问题。</br>
 
 # 常见问题目录
 
@@ -24,13 +25,10 @@ ThinkSNS+ 是基于 Laravel 开发的一个用户生态基础框架系统，支�
 
 反馈问题图文教程[请点击](.course/create-issues-tutori.md)。
 
-# 授权协议
-
 # 联系人
 
 联系电话: 18781918179 韩先生
 联系电话: 18108035545 李女士
-
 
 **备注**
 [仓库搜索官方指南](https://help.github.com/articles/searching-repositories/)</br>
