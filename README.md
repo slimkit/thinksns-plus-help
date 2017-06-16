@@ -13,17 +13,17 @@
 * [Android端]()
 * [web端（ H5 ）]()
 
+# 反馈问题
+
+在授权`ThinkSNS+`使用过程中，有任何未记录的问题可以通过`issues`添加了。
+
+反馈问题图文教程[请点击](course/create-issues-tutori.md)。
+
 # 搜索功能
 
 点击右上角输入搜索关键字，可以搜索本仓库所有相关内容。
 
 ![thinksnsplus-help-search-guide](http://orktyepkm.bkt.clouddn.com/thinksnsplus-help-search-guide.png?watermark/1/image/aHR0cDovL29ya3hra296di5ia3QuY2xvdWRkbi5jb20vVFMrc2h1aXlpbi5wbmc=/dissolve/100/gravity/SouthEast/dx/15/dy/15|imageslim)
-
-# 反馈问题
-
-在授权`ThinkSNS+`使用过程中，有任何未记录的问题可以通过`issues`添加了。
-
-反馈问题图文教程[请点击](.course/create-issues-tutori.md)。
 
 # 联系人
 
