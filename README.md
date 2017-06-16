@@ -22,31 +22,17 @@ ThinkSNS+ 是基于 Laravel 开发的一个用户生态基础框架系统，支�
 
 在授权`ThinkSNS+`使用过程中，有任何未记录的问题可以通过`issues`添加了。
 
-首先创建新的`issues`.
-
-![new-issues](http://orktyepkm.bkt.clouddn.com/new-issues.png?watermark/1/image/aHR0cDovL29ya3hra296di5ia3QuY2xvdWRkbi5jb20vVFMrc2h1aXlpbi5wbmc=/dissolve/100/gravity/SouthEast/dx/15/dy/15|imageslim)
-
-然后填写:
-
-1. 标题
-2. 勾选平台
-3. 填写描述
-4. 确认提交
-
-![fill-the-chart](http://orktyepkm.bkt.clouddn.com/fill-the-chart.png?watermark/1/image/aHR0cDovL29ya3hra296di5ia3QuY2xvdWRkbi5jb20vVFMrc2h1aXlpbi5wbmc=/dissolve/100/gravity/SouthEast/dx/15/dy/15|imageslim)
-
-在确认提交之前,也可以点击预览按钮,查看编写内容的格式
-
-![prview-issues](http://orktyepkm.bkt.clouddn.com/prview-issues.png?watermark/1/image/aHR0cDovL29ya3hra296di5ia3QuY2xvdWRkbi5jb20vVFMrc2h1aXlpbi5wbmc=/dissolve/100/gravity/SouthEast/dx/15/dy/15|imageslim)
-
-
-备注：
-[仓库搜索官方指南](https://help.github.com/articles/searching-repositories/)</br>
-[github搜索语法](https://help.github.com/articles/search-syntax/)</br>
-[github高级搜索](https://help.github.com/articles/advanced-search/)</br>
-
+反馈问题图文教程[请点击](.course/create-issues-tutori.md)。
 
 # 授权协议
 
 # 联系人
 
+联系电话: 18781918179 韩先生
+联系电话: 18108035545 李女士
+
+
+**备注**
+[仓库搜索官方指南](https://help.github.com/articles/searching-repositories/)</br>
+[github搜索语法](https://help.github.com/articles/search-syntax/)</br>
+[github高级搜索](https://help.github.com/articles/advanced-search/)</br>
