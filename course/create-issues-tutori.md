@@ -2,6 +2,8 @@
 
 ![new-issues](http://orktyepkm.bkt.clouddn.com/new-issues.png?watermark/1/image/aHR0cDovL29ya3hra296di5ia3QuY2xvdWRkbi5jb20vVFMrc2h1aXlpbi5wbmc=/dissolve/100/gravity/SouthEast/dx/15/dy/15|imageslim)
 
+也可以直接[点击创建](https://github.com/zhiyicx/thinksns-plus-help/issues/new)
+
 ## 然后填写内容
 
 1. 标题
